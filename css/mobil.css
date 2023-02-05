@@ -49,3 +49,15 @@
         padding: .5rem 1.5rem;
     }
 }
+
+@media (orientation: landscape){
+    header{
+        height: 280vh;
+    }
+    
+    .nombre h1{
+        font-size: 2.5rem;
+        padding: 2rem 0;
+    }
+    
+}
